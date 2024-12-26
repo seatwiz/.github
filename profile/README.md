@@ -1,8 +1,9 @@
 # Welcome to SeatWiz 👋
 
-> **Important Notice:**  
+> 
+> **[IMPORTANT]**  
 > We keep our code **private** for security.  
-> Don't expect to find any **open-source projects** in this organization.
+> Don't expect to find any **open-source projects** in our github
 
 
 ## About Us
