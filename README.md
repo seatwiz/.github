@@ -7,7 +7,7 @@ SeatWiz is a tool for teachers to create better seating charts. We are a group o
 ## Contact Us
 If you have any questions,feedback, or want to join the team, feel free to reach out:
 
-- Email: [contact@seatwiz.com](mailto:talk2ved11@gmail.com)
+- Email: [talk2ved11@gmail.com](mailto:talk2ved11@gmail.com)
 
 ## License
 All projects under SeatWiz are licensed under the [MIT License](LICENSE).
