@@ -1,6 +1,5 @@
 # Welcome to SeatWiz 👋
 
-![SeatWiz Logo](HEIF Image.heic) <!-- Replace with your logo URL -->
 
 ## About Us
 SeatWiz is a tool for teachers to create better seating charts. We are a group of students dedicated to make learning better for everyone.
