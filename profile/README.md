@@ -11,7 +11,7 @@ SeatWiz is a tool for teachers to create better seating charts. We are a group o
 ## Contact Us
 If you have any questions, feedback, or want to join the team, feel free to reach out:
 
-- Email: [talk2ved11@gmail.com](mailto:talk2ved11@gmail.com)
+- Email: [seatwizeducation@gmail.com](mailto:seatwizeducation@gmail.com)
 ---
 
 Thank you for visiting SeatWiz! We look forward to shifting seats with you!
