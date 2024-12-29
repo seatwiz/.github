@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > We keep our code **private** for security.  
-> Don't expect to find any **open-source projects** in our github
+> Don't expect to find any **open-source projects** on our github
 
 
 ## About Us
